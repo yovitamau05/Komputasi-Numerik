@@ -1,0 +1,34 @@
+DAFTAR PROMPT AI – PROYEK METODE BISECTION
+
+Nama: Yovita Maria Kolo
+
+Mata Kuliah: Komputasi Numerik
+
+Judul Proyek: Penyelesaian Persamaan Nonlinear Menggunakan Metode Bisection
+
+1. Prompt Menentukan Persamaan
+
+Bantu saya menentukan contoh persamaan nonlinear yang dapat diselesaikan menggunakan metode Bisection. Gunakan persamaan f(x) = x³ - x - 2 dengan interval awal a = 1 dan b = 2.
+
+2. Prompt Memahami Algoritma
+
+Jelaskan langkah-langkah penyelesaian persamaan nonlinear menggunakan metode Bisection dengan bahasa sederhana agar mudah dipahami oleh mahasiswa pemula.
+
+3. Prompt Membuat Program Python
+
+Buatkan program Python untuk menyelesaikan persamaan f(x) = x³ - x - 2 menggunakan metode Bisection. Gunakan interval a = 1, b = 2, toleransi 0,0001, dan maksimal 100 iterasi. Tampilkan tabel iterasi yang berisi nilai a, b, c, dan f(c).
+
+4. Prompt Penjelasan Kode
+
+Jelaskan fungsi dan setiap bagian kode Python metode Bisection secara bertahap menggunakan bahasa sederhana.
+
+5. Prompt Memeriksa Program
+
+Periksa apakah program metode Bisection sudah benar dan apakah hasil perhitungan sesuai dengan persamaan yang digunakan.
+
+6. Prompt Kesimpulan
+
+Buatkan kesimpulan singkat berdasarkan hasil penyelesaian persamaan nonlinear menggunakan metode Bisection.
+
+CATATAN:
+Prompt ini digunakan sebagai dokumentasi bantuan AI dalam proses pengerjaan proyek Komputasi Numerik.
