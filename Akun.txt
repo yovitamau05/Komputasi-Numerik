@@ -8,7 +8,8 @@ Repository: Komputasi-Numerik
 Link: https://github.com/yovitamau05/Komputasi-Numerik
 
 2. Google Colab
-Link: https://colab.research.google.com/
+Link: https://colab.research.google.com/drive/1PE6t3AmyKx9hIgSU20Nb4p1orUZAUF0X?usp=sharing
+https://colab.research.google.com/github/yovitamau05/Komputasi-Numerik/blob/main/Bisection/metode_bisection.ipynb
 
 3. LinkedIn
 Nama Profil: Yovita Mau
