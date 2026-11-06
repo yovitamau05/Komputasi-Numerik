@@ -30,5 +30,3 @@ Periksa apakah program metode Bisection sudah benar dan apakah hasil perhitungan
 
 Buatkan kesimpulan singkat berdasarkan hasil penyelesaian persamaan nonlinear menggunakan metode Bisection.
 
-CATATAN:
-Prompt ini digunakan sebagai dokumentasi bantuan AI dalam proses pengerjaan proyek Komputasi Numerik.
