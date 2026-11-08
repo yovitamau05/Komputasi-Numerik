@@ -1,19 +1,22 @@
- DOKUMENTASI PROMPT AI
-PROYEK KOMPUTASI NUMERIK
-Nama: Yovita Maria Kolo
-Mata Kuliah: Komputasi Numerik
+# PROMPT AI – PROGRAM SPL 3 VARIABEL
 
-A. PROMPT SPL 3 VARIABEL
+Buatkan program Python untuk menyelesaikan Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss.
 
-1. Buatkan algoritma untuk menyelesaikan Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss.
+Ketentuan program:
+1. Program menggunakan bahasa pemrograman Python.
+2. Program dapat menyelesaikan tiga persamaan dengan tiga variabel, yaitu x, y, dan z.
+3. Tampilkan matriks augmented dari sistem persamaan.
+4. Lakukan proses eliminasi Gauss untuk membentuk matriks segitiga atas.
+5. Lakukan substitusi mundur untuk mendapatkan nilai setiap variabel.
+6. Tampilkan langkah-langkah perhitungan secara jelas.
+7. Tampilkan hasil akhir nilai x, y, dan z.
+8. Berikan penjelasan sederhana pada setiap bagian kode agar mudah dipahami oleh mahasiswa.
 
-2. Buatkan program Python untuk menyelesaikan SPL tiga variabel menggunakan metode Eliminasi Gauss dengan Pivoting Parsial.
+Selain kode program, sertakan:
+- Penjelasan tujuan program.
+- Penjelasan algoritma Eliminasi Gauss.
+- Penjelasan proses perhitungan.
+- Hasil output program.
+- Kesimpulan dari penyelesaian SPL tiga variabel.
 
-3. Jelaskan fungsi setiap bagian kode Python menggunakan bahasa yang sederhana agar mudah dipahami oleh mahasiswa pemula.
-
-4. Bantu periksa dan perbaiki kesalahan NameError pada program Python di Google Colab.
-
-5. Buatkan kode untuk menampilkan hasil nilai x, y, dan z dari penyelesaian SPL tiga variabel.
-
-6. Buatkan kesimpulan dari hasil penyelesaian SPL tiga variabel menggunakan metode Eliminasi Gauss.
-
+Buat program yang rapi, mudah dijalankan di Google Colab, dan dapat digunakan sebagai dokumentasi proyek mata kuliah Komputasi Numerik.
